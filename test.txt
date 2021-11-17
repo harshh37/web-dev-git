@@ -2,4 +2,4 @@ This is my feature commit.
 
 And here we go for commit #2!
 
-adding to understand check
+adding to understand check test
